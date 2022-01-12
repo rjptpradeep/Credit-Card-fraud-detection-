@@ -9,13 +9,23 @@ This dataset presents transactions that occurred in two days, where we have 492 
 
 # Process
 Importing necessary libraries and dataset
+
 Getting familiar with the dataset
+
 Cleaning the dataset
+
 Processing the dataset
+
 Splitting the imblanced data into Train and Test data
+
 Training the two models(Logistic Regreesion, Decision Tree) using Train data
+
 Checking the accuracy and f1 score of the model
+
 Balancing the data with undersampling
+
 Splitting the blanced data into Train and Test data
+
 Training the two models(Logistic Regreesion, Decision Tree) using Train data
+
 Checking the accuracy and f1 score of the model
