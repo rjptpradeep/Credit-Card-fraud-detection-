@@ -14,8 +14,8 @@ This dataset presents transactions that occurred in two days, where we have 492 
 4. Processing the dataset.
 5. Splitting the imblanced data into Train and Test data.
 6. Training the two models(Logistic Regreesion, Decision Tree) using Train data.
-7. Checking the accuracy, sensitivity, precision and f1 score of the model.
+7. Checking the accuracy, Sensitivity, Specificity and f1 score of the model.
 8. Balancing the data with undersampling.
 9. Splitting the blanced data into Train and Test data.
 10. Training the two models(Logistic Regreesion, Decision Tree) using Train data.
-11. Checking the accuracy, sensitivity, precision and f1 score of the model.
+11. Checking the accuracy, Sensitivity, Specificity and f1 score of the model.
