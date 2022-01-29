@@ -1,5 +1,5 @@
 # Credit-Card-fraud-detection-
-It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase
+It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 # Content
 This data file includes information about the time of transaction, different features of transaction, amount of transaction and if the transaction is legit or not.
 
